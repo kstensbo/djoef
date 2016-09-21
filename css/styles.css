@@ -1,0 +1,46 @@
+p.takehome {
+	font-size: 150%;
+	font-style: italic;
+	font-weight: bold;
+}
+
+.focus {
+	color: CornflowerBlue;
+}
+
+h2.focus {
+	font-size: 200%;
+	color: CornflowerBlue;
+}
+
+h2.chapter {
+	float: right;
+}
+
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.reveal section img.borderless {
+	background:none;
+	border:none;
+	box-shadow:none;
+}
+
+.green {
+	color: LimeGreen;
+}
+
+.yellow {
+	color: Gold;
+}
+
+.red {
+	color: OrangeRed;
+}
+
